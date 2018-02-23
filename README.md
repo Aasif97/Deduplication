@@ -1,5 +1,6 @@
 # Deduplication
 
-to run the code just copy paste the directory in which input is present
-run the code 
-output file will be created in the same folder as your file is present
+Removes redundant data in a file
+    - Instructions:
+        $ javac *.java
+        $ java Deduplication <input_file_path> [output_file_path]
