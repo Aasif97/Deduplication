@@ -1,4 +1,5 @@
 # Deduplication
+Removes duplicates from a given file
 
     - Instructions:
         $ javac *.java
